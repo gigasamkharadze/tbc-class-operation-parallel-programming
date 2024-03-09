@@ -2,8 +2,7 @@ import time
 import concurrent.futures
 import random
 
-
-NUMBER_OF_SAMPLES = 10000
+NUMBER_OF_SAMPLES = 1000000
 NUMBER_OF_PROCESSES = 5
 NUMBER_OF_THREADS_PER_PROCESS = 20
 
